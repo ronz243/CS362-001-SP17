@@ -1,0 +1,6 @@
+[MASTER] 15:25:55.275 [main] ERROR ExternalProcessHandler - Class ArrayIntList. Clients have not finished yet, although timeout.
+ClientNode: MINIMIZATION
+
+[MASTER] 15:25:55.389 [main] ERROR SearchStatistics - No obtained value for output variable: MutationScore
+[MASTER] 15:25:55.390 [main] ERROR SearchStatistics - Not going to write down statistics data, as some are missing
+[MASTER] 15:25:55.493 [main] ERROR TestGeneration - failed to write statistics data

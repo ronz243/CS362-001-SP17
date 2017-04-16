@@ -1,0 +1,93 @@
+* Starting client
+* Connecting to master process on port 21623
+* Analyzing classpath: 
+  - /Users/RohanMac/CS362-001-SP17/projects/barver/assignment-1/target/classes
+* Finished analyzing classpath
+* Generating tests for class ArrayIntList
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 15:54:38.366 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /Users/RohanMac/CS362-001-SP17/projects/barver/assignment-1/.evosuite/evosuite-seeds/ArrayIntList.seed
+* Total number of test goals: 
+  - Line 25
+  - Branch 13
+  - Exception 0
+  - MutationFactory 173
+  - Output 6
+  - Method 8
+  - MethodNoException 8
+  - CBranchFitnessFactory 13
+* Using seed 1492383275695
+* Starting evolution
+* Search finished after 31s and 68 generations, 10090 statements, best individual has fitness: 4.10489898989899
+* Writing sequences to pool
+* Minimizing test suite
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 100%
+* Total number of goals: 25
+* Number of covered goals: 25
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 100%
+* Total number of goals: 13
+* Number of covered goals: 13
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 7
+* Number of covered goals: 7
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 99%
+* Total number of goals: 173
+* Number of covered goals: 171
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 33%
+* Total number of goals: 6
+* Number of covered goals: 2
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 8
+* Number of covered goals: 8
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 8
+* Number of covered goals: 8
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 100%
+* Total number of goals: 13
+* Number of covered goals: 13
+* Generated 14 tests with total length 33
+* Coverage of criterion STATEMENT: 100%
+* Total number of goals: 125
+* Number of covered goals: 125
+* Coverage of criterion ONLYBRANCH: 100%
+* Total number of goals: 8
+* Number of covered goals: 8
+* Coverage of criterion IBRANCH: 100%
+* Total number of goals: 15
+* Number of covered goals: 15
+* Coverage of criterion ONLYMUTATION: 99%
+* Total number of goals: 173
+* Number of covered goals: 171
+* Coverage of criterion MUTATION: 32%
+* Total number of goals: 173
+* Number of covered goals: 56
+* Coverage of criterion INPUT: 0%
+* Total number of goals: 17
+* Number of covered goals: 0
+* Coverage of criterion METHODTRACE: 100%
+* Total number of goals: 8
+* Number of covered goals: 8
+* Resulting test suite's coverage: 92% (average coverage for all fitness functions)
+* Generating assertions
+[MASTER] 15:55:21.973 [pool-2-thread-1] WARN  TimeController - Phase MINIMIZATION lasted too long, 7 seconds more than allowed.
+* Resulting test suite's mutation score: 18%
+* Compiling and checking tests
+* Writing JUnit test case 'ArrayIntList_ESTest' to /Users/RohanMac/CS362-001-SP17/projects/barver/assignment-1/.evosuite/tmp_2017_04_16_15_54_33/tests
+* Done!
+
