@@ -1,6 +1,6 @@
-CS362-001-SP17 Assignment-2 
+CS362-001-SP17 Assignment-3 
 
-Due date is Monday, May 1st at 11:59pm (No late submissions will be accepted)
+Due date is Monday, May 15th at 11:59pm (No late submissions will be accepted)
 
 
 
